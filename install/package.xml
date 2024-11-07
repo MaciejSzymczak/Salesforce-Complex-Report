@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <members>StaticReport</members>
+    <members>StaticReportTest</members>
+    <name>ApexClass</name>
+  </types>
+  <types>
+    <members>StaticReport</members>
+    <name>ApexPage</name>
+  </types>
+  <types>
+    <members>StaticReport</members>
+    <name>StaticResource</name>
+  </types>
+  <version>55.0</version>
+</Package>
